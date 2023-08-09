@@ -27,7 +27,7 @@ This program uses the `turtle` module, which is a built-in graphics module in Py
   - Move Up: "Up Arrow" key
   - Move Down: "Down Arrow" key
 
-## Authors
+## Author
 
 - Nilesh Kumar Singh
 
