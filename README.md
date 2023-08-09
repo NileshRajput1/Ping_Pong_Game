@@ -1,4 +1,4 @@
-# Pong Game using Turtle
+# Ping Pong Game using Turtle
 
 A simple implementation of the classic Pong game using Python's `turtle` module.
 
